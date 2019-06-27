@@ -1,0 +1,37 @@
+div{
+    color:red;
+    font-size: 40 px;
+}
+
+.left{
+    color:red;
+    font-size: 40 px;
+}
+
+#t1{
+    color:blue;
+}
+#t2,:right{
+    broder: 1px soild rgb(100, 38, 38)
+}
+h1#t1{
+    background-color:
+}
+.header  ul {
+
+}
+.header > ul{
+    border:1px solid #ccc;
+}
+.header>ul>li:nth-child(2){
+    background-color: black;
+}
+.header>ul>li:hover{
+    
+}
+ul>li{
+    content:"hello"
+}
+ul::after{
+    content:"hello"
+}
